@@ -7,4 +7,4 @@ app.get('/', (req, res) => {
 
 app.listen(3000)
 
-modules.export = app
+module.export = app
